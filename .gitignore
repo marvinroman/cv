@@ -1,0 +1,8 @@
+/accounts
+/data
+!/pages
+!/plugins
+!/themes
+!/assets
+/config/security.yaml
+/config/plugins/git-sync.yaml
