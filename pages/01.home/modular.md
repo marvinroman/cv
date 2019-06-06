@@ -17,10 +17,11 @@ content:
       - _skills
       - _testimonials
       - _education
-      - _languages
-      - _blog
-      - _listen_music
       - _conferences
+      - _form
+      # - _languages
+      # - _blog
+      # - _listen_music
 
-      - _credits
+      # - _credits
 ---

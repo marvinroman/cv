@@ -4,7 +4,7 @@ enabled: true
 profile:
   name: "Marvin Roman"
   desc: "Systems Architect"
-  avatar_url: /user/pages/assets/images/headshot.jpg
+  avatar_url: /user/themes/developer/assets/images/headshot.jpg
   informations:
     - icon: "map-marker"
       label: "Location"

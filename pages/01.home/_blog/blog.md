@@ -1,5 +1,6 @@
 ---
 title: "Latest Blog Posts"
+published: false
 
 section_position: "sidebar"
 section_class: "blog"

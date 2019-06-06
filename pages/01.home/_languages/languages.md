@@ -1,9 +1,9 @@
 ---
-title: "Languages"
-
-section_position: "sidebar"
-section_class: "languages"
-
+title: Languages
+published: false
+section_position: sidebar
+section_class: languages
 content:
-  items: @self.children
+    items: '@self.children'
 ---
+
