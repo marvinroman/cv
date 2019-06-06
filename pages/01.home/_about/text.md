@@ -1,7 +1,8 @@
 ---
-title: "About"
+title: About
 ---
 
-Write a brief intro about yourself. Lorem ipsum dolor sit amet, consectetuer adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa. Cum sociis natoque penatibus et magnis dis parturient montes, nascetur ridiculus mus. Donec quam felis, ultricies nec.
-
-It's a good idea to include your personal interests and hobbies as well. Commodo ligula eget dolor. Aenean massa. Cum sociis natoque penatibus et magnis dis parturient montes, nascetur ridiculus mus. Donec quam felis, ultricies nec.Sed ut perspiciatis unde omnis iste natus error sit voluptatem accusantium, totam rem aperiam, eaque ipsa quae ab illo inventore veritatis et quasi architecto beatae vitae dicta sunt explicabo.
+I have spent 9 years working from e-commerce, to being a hosting service system's architect, to VP of IT for a mid-sized business. In that time I have learned, programmed and architected small and large scale changes for the companies I have operated in. 
+* 3 years experience programming in platforms like Magento, Wordpress & Prestoshop.
+* 6 years experience optimizing, scaling & clustering web platforms with technologies like, NGINX, PHP-FPM, Varnish, PageSpeed, Docker, Kubernetes, GCP, Redis, MySQL, among others.
+* 3 years experience migrating and optimizing all company processes to Cloud Platforms like Netsuite, Box, Google, and building integrations with many third party systems.
