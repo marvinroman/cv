@@ -3,7 +3,7 @@ enabled: true
 # Profile
 profile:
   name: "Marvin Roman"
-  desc: "Systems Architect"
+  desc: "Systems Architect / Developer"
   avatar_url: /user/themes/developer/assets/images/headshot.jpg
   informations:
     - icon: "map-marker"
@@ -18,6 +18,9 @@ profile:
 
 # Github
 github: "marvinroman"
+
+# Contact form URL
+contact_url: "/#contact-form"
 
 # Linkedin
 linkedin: "#"

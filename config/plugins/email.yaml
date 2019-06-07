@@ -1,0 +1,20 @@
+enabled: true
+from: root@c95ed39175df.localdomain
+from_name: 'Contact Form'
+to: marvinroman@gmail.com
+to_name: 'Marvin Roman'
+queue:
+  enabled: true
+  flush_frequency: '* * * * *'
+  flush_msg_limit: 10
+  flush_time_limit: 100
+mailer:
+  engine: sendmail
+  smtp:
+    server: localhost
+    port: 25
+    encryption: none
+  sendmail:
+    bin: '/usr/sbin/sendmail -bs'
+content_type: text/html
+debug: true

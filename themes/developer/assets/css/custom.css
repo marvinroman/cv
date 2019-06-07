@@ -1,0 +1,13 @@
+.header .profile-image {
+    margin-right: 30px;
+    max-width: 160px;
+    max-height: 160px;
+}
+
+.buttons {
+    margin: 1em 0;
+}
+
+.form-field {
+    margin: 1em 0;
+}

@@ -8,17 +8,17 @@ content:
     dir: asc
     custom:
       - _about
-      - _latest_projects
-      - _projects
       - _experience
-      - _github
+      - _latest_projects
 
       - _basic_informations
       - _skills
-      - _testimonials
-      - _education
+      - _projects
       - _conferences
       - _form
+      # - _github
+      # - _education
+      # - _testimonials
       # - _languages
       # - _blog
       # - _listen_music
