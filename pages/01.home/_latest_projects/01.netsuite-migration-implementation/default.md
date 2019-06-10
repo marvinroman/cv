@@ -1,6 +1,6 @@
 ---
-title: "Netsuite Migration & Implementation"
-summary: "Built out and migrated company to Netsuite."
+title: 'Netsuite Migration & Implementation'
+summary: 'Built out and migrated company to Netsuite.'
 ---
 
 #### Problem

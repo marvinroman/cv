@@ -1,6 +1,6 @@
 ---
-title: "Kubernetes Cluster"
-summary: "Migrated all companies web properties and software from Microsoft Server to Kubernetes cluster."
+title: 'Kubernetes Cluster'
+summary: 'Migrated all companies web properties and software from Microsoft Server to Kubernetes cluster.'
 ---
 
 #### Workflow

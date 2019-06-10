@@ -1,6 +1,6 @@
 ---
 title: 'Business Intelligence Dashboards'
-summary: "Built out department business intelligence dashboards."
+summary: 'Built out department business intelligence dashboards.'
 ---
 
 #### Problems

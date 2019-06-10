@@ -1,12 +1,12 @@
 ---
-title: "Netsuite Record Restructuring"
+title: 'Netsuite Record Restructuring'
 ---
 
 #### Problems
-* Address not searchable in the system.
+* Customer addresses are not searchable in the system.
 * Customers sell homes, how do you transfer a property in the system without altering historical transaction records?
 * Can contracts and other forms be automatically created?
-* How to handle properties that install multiple energy systems but consolidate the stats under a single record?
+* How to handle properties that install multiple energy systems but consolidate those stats under a single record?
 
 #### Solution
 * Rebuilt record structure to centralize around **Property** record instead of **Customer** record.
