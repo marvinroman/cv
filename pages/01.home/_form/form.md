@@ -4,7 +4,7 @@ section_position: "sidebar"
 form:
     name: contact-form
     fields:
-        - name: firstname
+        - name: bee
           type: honeypot
 
         - name: name
