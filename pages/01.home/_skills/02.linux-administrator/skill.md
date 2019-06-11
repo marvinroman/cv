@@ -1,5 +1,5 @@
 ---
-title: 'Linux Adminisrator'
+title: 'Linux Administrator'
 level:
     text: Expert
     value: 96
