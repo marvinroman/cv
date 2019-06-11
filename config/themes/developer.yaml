@@ -3,7 +3,7 @@ enabled: true
 # Profile
 profile:
   name: "Marvin Roman"
-  desc: "Developer / DevOps"
+  desc: "Developer / DevOps / Systems Architect"
   avatar_url: /user/themes/developer/assets/images/headshot.jpg
   informations:
     - icon: "map-marker"
