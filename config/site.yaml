@@ -1,7 +1,17 @@
-title: Grav
+title: 'cv.marvinroman.me'
+default_lang: en
 author:
-  name: Joe Bloggs
-  email: 'joe@example.com'
+  name: 'Marvin Roman'
+  email: marvinroman@protonmail.com
+taxonomies:
+  - category
+  - tag
 metadata:
-    description: 'Grav is an easy to use, yet powerful, open source flat-file CMS'
-
+  description: 'CV for Marvin Roman: DevOps, Developer, Server Administrator'
+summary:
+  enabled: true
+  format: short
+  size: 300
+  delimiter: '==='
+blog:
+  route: /blog
