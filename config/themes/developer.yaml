@@ -9,7 +9,7 @@ profile:
     - icon: "map-marker"
       label: "Location"
       url: ""
-      text: "Palm Desert, US"
+      text: "California, US"
 
     - icon: "envelope-o"
       label: "Email"
