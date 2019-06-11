@@ -1,0 +1,22 @@
+.header .profile-image {
+    margin-right: 30px;
+    max-width: 160px;
+    max-height: 160px;
+}
+
+.buttons {
+    margin: 1em 0;
+}
+
+.form-field {
+    margin: 1em 0;
+}
+
+.form-input-wrapper input {
+    width: 100%;
+}
+
+.form-textarea-wrapper textarea {
+    width: 100%;
+    height: 6em;
+}

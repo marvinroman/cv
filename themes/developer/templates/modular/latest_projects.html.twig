@@ -1,0 +1,40 @@
+{% set collection = page.collection() %}
+
+{% if collection %}
+    {% for item in collection %}
+        <div class="item featured text-center">
+            <h3 class="title">
+                {{ item.title }}
+            </h3>
+
+            <p class="summary">{{ item.header.summary }}</p>
+
+            {% if item.header.cover %}
+                <div class="featured-image">
+                    <a {% if item.header.link.url %} href="{{ item.header.link.url }}" {% endif %}>
+                        <img class="img-responsive project-image" src="{{ item.header.cover }}" alt="project {{ item.slug }}"/>
+                    </a>
+
+                    {% if item.header.ribbon %}
+                        <div class="ribbon">
+                            <div class="text">{{ item.header.ribbon }}</div>
+                        </div>
+                    {% endif %}
+                </div>
+            {% endif %}
+
+            <div class="desc text-left">{{ item.content }}</div>
+
+            {% if item.header.link.url and item.header.link.title %}
+                <a class="btn btn-cta-secondary" href="{{ item.header.link.url }}">
+                    <i class="fa fa-thumbs-o-up"></i>
+                    {{ item.header.link.title }}
+                </a>
+            {% endif %}
+        </div>
+
+        {% if not loop.last %}
+            <hr class="divider"/>
+        {% endif %}
+    {% endfor %}
+{% endif %}

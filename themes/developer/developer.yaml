@@ -1,0 +1,42 @@
+enabled: true
+
+# Profile
+profile:
+  name: "Marvin Roman"
+  desc: "Systems Architect"
+  avatar_url: /user/pages/assets/images/headshot.jpg
+  informations:
+    - icon: "map-marker"
+      label: "Location"
+      url: ""
+      text: "Palm Desert, US"
+
+    - icon: "envelope-o"
+      label: "Email"
+      url: "mailto:marvinroman@protonmail.com"
+      text: "marvinroman@protonmail.com"
+
+# Github
+github: "marvinroman"
+
+# Linkedin
+linkedin: "#"
+
+# Social Networks
+social:
+  networks:
+    - url: "https://www.linkedin.com/in/marvin-roman-4b39a76a/"
+      icon: "linkedin"
+      title:
+
+    - url: "https://github.com/marvinroman"
+      icon: "github-alt"
+      title:
+
+# Grav streams
+streams:
+  schemes:
+    theme:
+      type: ReadOnlyStream
+      paths:
+        - user/themes/developer
